@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">EjerciciosClasesUI</string>
+    <string name="primer_titulo">Aragon</string>
+    <string name="primera_desc">Una región del interior ubicada en el nordeste de España, compuesta por las provincias de Huesca, Zaragoza y Teruel.</string>
+    <string name="segundo_titulo">Zaragoza</string>
+    <string name="segunda_desc">La capital de Aragón, una de las comunidades autónomas del noreste de España</string>
+    <string name="tercer_titulo">Huesca</string>
+    <string name="tercera_desc">Es una ciudad y municipio español, capital de la provincia homónima y de la comarca de la Hoya de Huesca,</string>
+    <string name="cuarto_titulo">Teruel</string>
+    <string name="cuarta_desc">Es una ciudad de la comunidad autónoma de Aragón, al este de España.</string>
+</resources>
